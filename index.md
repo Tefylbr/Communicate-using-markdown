@@ -1,6 +1,1 @@
-# Hello, 
-## try one
-### using headers. 
-#### My name is 
-##### Sthephanie 
-###### Bonilla
+### Image of Gnar ![Image of Gnar](https://lolskinshop.com/wp-content/uploads/2021/05/AstroGnar-load-screen.jpg)

@@ -1,1 +1,5 @@
-### Image of Gnar ![Image of Gnar](https://lolskinshop.com/wp-content/uploads/2021/05/AstroGnar-load-screen.jpg)
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Be a nice person
+- [ ] Show love 

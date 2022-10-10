@@ -1,0 +1,5 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Be a nice person
+- [ ] Show love 
